@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atv01</string>
+    <string name="S_inicial">S inicial (m)</string>
+    <string name="Velocidade">Velocidade (m/s)</string>
+    <string name="Tempo">Tempo (s)</string>
+    <string name="S_final"> S final: </string>
+    <string name="Calcular">Calcular</string>
+    <string name="Enunciado">Para calcular o movimento uniforme preencha os campos abaixo</string>
+</resources>
